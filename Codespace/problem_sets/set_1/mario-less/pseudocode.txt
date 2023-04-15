@@ -1,0 +1,6 @@
+Prompt user for "height"
+    Loop ensures input is "int" between 1 and 8, inclusive
+
+Loop that writes "height" number of rows of text
+    Loop nested inside of that loop that writes each row of text followed by a new line
+        Writes "row" number of spaces followed by "iteration" number of hashes
